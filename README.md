@@ -1,6 +1,8 @@
 # Climate Analysis Toolkit
 
-This is a set of python scripts designed ot analyse climate datafiles.
+This is a set of Python scripts designed to analyse climate data files.
 
 If you are interested in collaborating, email me at laurenceru2@gmail.com
+
+This code is currently in development and not all features will work.
 
