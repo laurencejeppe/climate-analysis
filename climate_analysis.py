@@ -1,5 +1,5 @@
 """
-Amazing Climate Analysis Tools
+Climate Analysis Tools
 """
 import sys
 import temp_conversion
